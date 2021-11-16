@@ -1,2 +1,3 @@
 # NdkCalculator
-good
+good example calculator
+
